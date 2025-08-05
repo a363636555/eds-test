@@ -14,8 +14,8 @@ Before using the boilerplate, we recommend you to go through the documentation o
 
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--eds-test--a363636555.aem.page/
+- Live: https://main--eds-test--a363636555.aem.live/
 
 ## Pre-requisites
 
